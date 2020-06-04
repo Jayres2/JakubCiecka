@@ -1,0 +1,102 @@
+#logo{
+    text-align: center;
+
+}
+body{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+#nav1{
+    border-bottom: 1px solid gray;
+       margin-right:2%;
+    margin-left:2%;
+}
+#nav2{
+    color:dimgray;
+}
+#nav2 a:hover{
+    text-decoration-color: black;
+
+    border-bottom:0.1px solid black;
+}
+
+
+
+
+#footer{
+    padding:40px;
+    background-color:gray;
+    display: flex;
+    
+}
+footer p{
+    font-size:20px;
+    color:white;
+    text-align: center;
+    
+ 
+}
+footer section{
+      margin-left:auto;
+    margin-right: auto;
+}
+footer img{
+    margin:auto;
+    
+}
+#copyright{
+    background-color:gray;
+    text-align: center;
+ padding:10px;
+    color:white;
+      font-size:20px;
+}
+.center{
+    text-align: center;
+}
+a{
+    list-style: none;
+    text-decoration: none;
+    color:white;
+}
+a:hover{
+    list-style: none;
+    text-decoration: none;
+ color:white;
+}
+main{
+margin-bottom: 2%;
+}
+.produkty{
+
+    display:flex;
+   
+  
+}
+.item{
+      margin-left: auto;
+    margin-right: auto;
+}
+
+.naglowek{
+    text-align: center;
+    margin-top:3%;
+    margin-bottom: 4%;
+}
+.opis{
+    text-align: center;
+    margin-top:5%;
+   
+}
+.cena{
+    text-align: center;
+font-weight: 600;
+    margin-top:-1%;
+   
+}
+#akcesoria{
+        display:flex;
+   
+}
